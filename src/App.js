@@ -7,7 +7,7 @@ import TodoList from './Components/TodoList';
 function App() {
   return (
     <div className="App">
-      <h1>Обещания в новом году</h1>
+      <h1>Планы на год</h1>
   <TodoList />
     </div>
   );
